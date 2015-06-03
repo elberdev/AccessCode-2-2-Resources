@@ -3,10 +3,10 @@
 ##FREE RESOURCES
 
 ###HTML/CSS
-*lessons:
+######lessons:
 [Codecademy Web track] (http://www.codecademy.com/en/tracks/web)
 
-* collaborative testing environment:
+######collaborative testing environment:
 [JSBin] (http://jsbin.com/)
 
 ###Command Line
