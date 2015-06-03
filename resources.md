@@ -3,11 +3,11 @@
 ##FREE RESOURCES
 
 ###HTML/CSS
-	####lessons:
-		[Codecademy Web track] (http://www.codecademy.com/en/tracks/web)
+####lessons:
+[Codecademy Web track] (http://www.codecademy.com/en/tracks/web)
 
-	####collaborative testing environment:
-		[JSBin] (http://jsbin.com/)
+####collaborative testing environment:
+[JSBin] (http://jsbin.com/)
 
 
 ###Command Line
