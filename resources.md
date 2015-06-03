@@ -4,10 +4,10 @@
 
 ###HTML/CSS
 ######lessons:
-[Codecademy Web track] (http://www.codecademy.com/en/tracks/web)
+*[Codecademy Web track] (http://www.codecademy.com/en/tracks/web)
 
 ######collaborative testing environment:
-[JSBin] (http://jsbin.com/)
+*[JSBin] (http://jsbin.com/)
 
 ###Command Line
 http://cli.learncodethehardway.org/book/
