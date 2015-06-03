@@ -24,16 +24,16 @@
 *Oscar Gonzalez*
 		
 ######book:
-* http://git-scm.com/book/en/v2
-			*Ayuna Vogel*
+* [Pro Git] (http://git-scm.com/book/en/v2)
+*Ayuna Vogel*
 			
-	**GUI and visualizing tool:**
-		..* http://gitx.frim.nl
-			*Mike Kavouras*
+######GUI and visualizing tools:
+* [GitX] (http://gitx.frim.nl)
+*Mike Kavouras*
 			
-	**Sharing code snippets:**
-		..* https://gist.github.com
-			*Mike Kavouras*
+######Sharing code snippets:
+* [Gists] (https://gist.github.com)
+*Mike Kavouras*
 
 
 ###Queens Library free teamtreehouse.com portal and instructions (Christella)
