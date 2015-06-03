@@ -18,13 +18,13 @@
 ###Git / Github
 * [Git Cheat Sheet](https://github.com/accesscode-2-2/user-manual/blob/master/git-cheatsheet.md)
 
-	**lessons:**
-		..* https://try.github.io/levels/1/challenges/1
-		..* http://pcottle.github.io/learnGitBranching/
-			*Oscar Gonzalez*
+######lessons:
+* [Code School git] (https://try.github.io/levels/1/challenges/1)
+* [Learn Git Branching] (http://pcottle.github.io/learnGitBranching/)
+*Oscar Gonzalez*
 		
-	**book:**
-		..* http://git-scm.com/book/en/v2
+######book:
+* http://git-scm.com/book/en/v2
 			*Ayuna Vogel*
 			
 	**GUI and visualizing tool:**
