@@ -16,8 +16,7 @@
 
 
 ###Git / Github
-	**cheatsheet:**
-		..* https://github.com/accesscode-2-2/user-manual/blob/master/git-cheatsheet.md
+* [Git Cheat Sheet](https://github.com/accesscode-2-2/user-manual/blob/master/git-cheatsheet.md)
 
 	**lessons:**
 		..* https://try.github.io/levels/1/challenges/1
