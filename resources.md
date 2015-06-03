@@ -11,7 +11,7 @@
 * [JSBin] (http://jsbin.com/)
 
 ###Command Line
-http://cli.learncodethehardway.org/book/
+* [Learn Code the Hard Way] (http://cli.learncodethehardway.org/book/)
 *Jovanny Espinal*
 
 
