@@ -11,8 +11,8 @@
 
 
 ###Command Line
-	..* http://cli.learncodethehardway.org/book/
-		*Jovanny Espinal*
+..* http://cli.learncodethehardway.org/book/
+*Jovanny Espinal*
 
 
 ###Git / Github
