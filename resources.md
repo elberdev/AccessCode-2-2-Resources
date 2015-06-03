@@ -9,9 +9,8 @@
 ####collaborative testing environment:
 [JSBin] (http://jsbin.com/)
 
-
 ###Command Line
-..* http://cli.learncodethehardway.org/book/
+* http://cli.learncodethehardway.org/book/
 *Jovanny Espinal*
 
 
