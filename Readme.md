@@ -9,7 +9,7 @@ mentioned the resource (if it is known).
 
 ## Contributions
 ##
-If you see I missed something interesting, feel free to post it in Slack channel #resources, PM me on Slack, or add yourself and send a pull request.
+If you see I missed something interesting, feel free to post it in Slack channel #resources, PM me on Slack, or add it yourself and send a pull request.
 
 ## Errata, fixes and mea culpas
 ##
