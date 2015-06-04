@@ -73,7 +73,7 @@
 * [Programmer Competency Matrix] (http://sijinjoseph.com/programmer-competency-matrix/)
 *Jovanny Espinal*
 		
-###Design
+###Designjwejsdjg
 	https://www.cocoacontrols.com
 		*Mike Kavouras*
 	https://dribbble.com
