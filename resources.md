@@ -35,7 +35,8 @@
 *Mike Kavouras*
 
 
-###Queens Library free teamtreehouse.com portal and instructions
+###Queens Library free teamtreehouse.com portal and instructions (Christella)
+the best resource 
 * [Team Treehouse Queens Library portal] (https://teamtreehouse.com/gateways/queens_library/signup)
 *Christella*
 
