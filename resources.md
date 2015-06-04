@@ -11,24 +11,24 @@
 *Christella*
 
 
-###HTML/CSS
-######Lessons:
-* [Codecademy Web track] (http://www.codecademy.com/en/tracks/web)
-
-######Collaborative testing environment:
-* [JSBin] (http://jsbin.com/)
-
-
 ###Command Line
 * [The Command Line Crash Course] (http://cli.learncodethehardway.org/book/)
 *Jovanny Espinal*
 
 
 ###Git / Github
+######Unit-0:
 * [Git Cheat Sheet](https://github.com/accesscode-2-2/user-manual/blob/master/git-cheatsheet.md)
 
+* [Code School Git] (https://try.github.io/levels/1/challenges/1)
+
 ######Lessons:
-* [Code School git] (https://try.github.io/levels/1/challenges/1)
+* [Git Tower] (https://www.git-tower.com/learn/git/videos)
+*Alex Qin*
+
+* [Git Tower follow-along book] (https://www.git-tower.com/learn/git/videos)
+*Alex Qin*
+
 * [Learn Git Branching] (http://pcottle.github.io/learnGitBranching/)
 *Oscar Gonzalez*
 		
@@ -38,6 +38,12 @@
 ######GUI tools:
 * [GitX] (http://gitx.frim.nl)
 *Mike Kavouras*
+
+* [GitUp] (http://gitup.co/)
+*Matthew Sabath*
+
+* [SourceTree] (https://www.sourcetreeapp.com)
+*Matthew Sabath, Oscar Gonzalez*
 			
 ######Code snippets:
 * [Gists] (https://gist.github.com)
@@ -45,18 +51,28 @@
 
 
 ###Objective-C
-######Lessons:
+######Unit-0:
 * [Code School Lessons] (http://tryobjectivec.codeschool.com/)
+
+* [Variables] (https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-0/2015-06-02_variables.md)
+
+* [String Format Specifiers: Apple Documentation] (https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/Strings/Articles/formatSpecifiers.html)
+
+######Basics:
+* [Team Treehouse Objective-C Basics] (http://teamtreehouse.com/library/objectivec-basics) 
+*Ayuna Vogel*
 	
-######On blocks:
+######Blocks:
 * [Apple Documentation] (https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithBlocks/WorkingwithBlocks.html)
 *Krishna Pivart*
 
 * [Goshdarn Block Syntax] (http://goshdarnblocksyntax.com)
 *Mike Kavouras*
+
+######Emoji:
+* [Adding Emoji Characters] (https://arashnorouzi.wordpress.com/2011/08/31/adding-graphics-and-emoji-characters-to-apple-push-notifications/)
+*Xiulan Shi*
 			
-######On string format specifiers:
-* [Apple Documentation] (https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/Strings/Articles/formatSpecifiers.html)
 
 
 ###Swift
@@ -72,10 +88,20 @@
 *Mike Kavouras*
 		
 		
-###Programming (general)	
+###Programming (general)
+* [Which Programming Language Should I Learn First?] (http://cdn2.carlcheo.com/wp-content/uploads/2014/12/which-programming-language-should-i-learn-first-infographic.png)
+*Kaira Villanueva*
+
 * [Programmer Competency Matrix] (http://sijinjoseph.com/programmer-competency-matrix/)
 *Jovanny Espinal*
+
 		
+###HTML/CSS
+######Pre-Work:
+* [Codecademy Web track] (http://www.codecademy.com/en/tracks/web)
+
+* [JSBin testing environment] (http://jsbin.com/)
+
 		
 ###Design
 * [Cocoa Controls] (https://www.cocoacontrols.com)
