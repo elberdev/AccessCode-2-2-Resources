@@ -4,6 +4,7 @@
 ##FREE
 
 ###Queens Library free teamtreehouse.com portal and instructions
+> Team Treehouse is one of the best programming learning resources on the web, so if you can get it for free, why not?! Tons of videos and follow-along instructionals on most programming subjects you'd care about. They often upload additional content including workshops and clips from industry conferences.
 * [Team Treehouse Queens Library portal] (https://teamtreehouse.com/gateways/queens_library/signup)
 *Christella*
 
@@ -22,7 +23,7 @@
 
 * [Code School Git] (https://try.github.io/levels/1/challenges/1)
 
-######Lessons:
+######Additional lessons:
 * [Git Tower] (https://www.git-tower.com/learn/git/videos)
 *Alex Qin*
 
