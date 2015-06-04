@@ -37,17 +37,16 @@
 
 
 ###Queens Library free teamtreehouse.com portal and instructions (Christella)
-	**portal:**
-		..* https://teamtreehouse.com/gateways/queens_library/signup
+* [Team Treehouse Queens Library portal] (https://teamtreehouse.com/gateways/queens_library/signup)
 
-	**instructions:**
-		..* https://groups.google.com/forum/#!topic/railsbridge-nyc-alumni/CdDimHa2VF8
+* [Signup instructions] (https://groups.google.com/forum/#!topic/railsbridge-nyc-alumni/CdDimHa2VF8)
 
 
 ###Objective-C
-	..* http://tryobjectivec.codeschool.com/
+######lessons:
+* [Code School Lessons] (http://tryobjectivec.codeschool.com/)
 	
-	**blocks:**
+######blocks:
 		..* https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/
 			ProgrammingWithObjectiveC/WorkingwithBlocks/WorkingwithBlocks.html
 				*Krishna Pivart*
