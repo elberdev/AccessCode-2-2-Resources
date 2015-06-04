@@ -80,26 +80,32 @@ the best resource
 	
 * [Dribble] (https://dribbble.com)
 *Mike Kavouras*
-	http://www.hongkiat.com/blog/cheatsheet-graphic-designers/
-		*Elber Carneiro*
-	https://artsedge.kennedy-center.org/educators/how-to/from-theory-to-practice
-		/formal-visual-analysis
-		*Elber Carneiro*
-	http://ilovetypography.com
-		*Elber Carneiro*
-	http://www.sitepoint.com/a-solid-understanding-of-negative-space/
-		*Elber Carneiro*
-	http://www.creativebloq.com/art/art-negative-space-8133765
-		*Elber Carneiro*
+
+* [Graphic Designer Cheatsheet] (http://www.hongkiat.com/blog/cheatsheet-graphic-designers/)
+*Elber Carneiro*
+	
+* [Elements and Principles of Design] (https://artsedge.kennedy-center.org/educators/how-to/from-theory-to-practice/formal-visual-analysis)
+*Elber Carneiro*
+	
+* [Typography] (http://ilovetypography.com)
+*Elber Carneiro*
+
+* [Understanding Negative Space] (http://www.sitepoint.com/a-solid-understanding-of-negative-space/)
+*Elber Carneiro*
+	
+* [Negative Space Examples] (http://www.creativebloq.com/art/art-negative-space-8133765)
+*Elber Carneiro*
 
 
 
 ##PAID RESOURCES
 
 ###Git
-	http://gitreal.codeschool.com
-		*Shena Yoshida*
+######lessons:
+* [Code School] (http://gitreal.codeschool.com)
+*Shena Yoshida*
 
 ###Objective-C
-	https://www.bignerdranch.com/we-write/objective-c-programming/
-		*Jovanny Espinal, Eric Sanchez*
+######book:
+* [Objective-C Programming: the Big Nerd Ranch Guide] (https://www.bignerdranch.com/we-write/objective-c-programming/)
+*Jovanny Espinal, Eric Sanchez*
