@@ -37,6 +37,7 @@
 
 
 ###Queens Library free teamtreehouse.com portal and instructions (Christella)
+the best resource 
 * [Team Treehouse Queens Library portal] (https://teamtreehouse.com/gateways/queens_library/signup)
 
 * [Signup instructions] (https://groups.google.com/forum/#!topic/railsbridge-nyc-alumni/CdDimHa2VF8)
