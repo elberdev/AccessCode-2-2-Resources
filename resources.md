@@ -3,6 +3,13 @@
 
 ##FREE
 
+###Queens Library free teamtreehouse.com portal and instructions
+* [Team Treehouse Queens Library portal] (https://teamtreehouse.com/gateways/queens_library/signup)
+*Christella*
+
+* [Signup instructions] (https://groups.google.com/forum/#!topic/railsbridge-nyc-alumni/CdDimHa2VF8)
+*Christella*
+
 
 ###HTML/CSS
 ######Lessons:
@@ -13,7 +20,7 @@
 
 
 ###Command Line
-* [Learn Code the Hard Way] (http://cli.learncodethehardway.org/book/)
+* [The Command Line Crash Course] (http://cli.learncodethehardway.org/book/)
 *Jovanny Espinal*
 
 
@@ -38,7 +45,7 @@
 
 
 ###Objective-C
-######lessons:
+######Lessons:
 * [Code School Lessons] (http://tryobjectivec.codeschool.com/)
 	
 ######On blocks:
