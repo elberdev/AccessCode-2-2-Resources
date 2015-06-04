@@ -73,11 +73,12 @@
 * [Programmer Competency Matrix] (http://sijinjoseph.com/programmer-competency-matrix/)
 *Jovanny Espinal*
 		
-###Designjwejsdjg
-	https://www.cocoacontrols.com
-		*Mike Kavouras*
-	https://dribbble.com
-		*Mike Kavouras*
+###Design
+* [Cocoa Controls] (https://www.cocoacontrols.com)
+*Mike Kavouras*
+	
+* [Dribble] (https://dribbble.com)
+*Mike Kavouras*
 	http://www.hongkiat.com/blog/cheatsheet-graphic-designers/
 		*Elber Carneiro*
 	https://artsedge.kennedy-center.org/educators/how-to/from-theory-to-practice
