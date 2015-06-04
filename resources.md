@@ -94,6 +94,9 @@
 * [Which Programming Language Should I Learn First?] (http://cdn2.carlcheo.com/wp-content/uploads/2014/12/which-programming-language-should-i-learn-first-infographic.png)
 *Kaira Villanueva*
 
+* [Become a Programmer, Motherf~~~~r!] (http://programming-motherfucker.com/become.html)
+*Elber Carneiro, Jovanny Espinal, Jackie Meggesto*
+
 * [Programmer Competency Matrix] (http://sijinjoseph.com/programmer-competency-matrix/)
 *Jovanny Espinal*
 
@@ -103,6 +106,12 @@
 * [Codecademy Web track] (http://www.codecademy.com/en/tracks/web)
 
 * [JSBin testing environment] (http://jsbin.com/)
+
+
+###JavaScript
+######Book:
+* [Eloquent JavaScript] (http://eloquentjavascript.net)
+*Jackie Meggesto*
 
 		
 ###Design
