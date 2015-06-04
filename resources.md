@@ -25,7 +25,6 @@
 		
 ######book:
 * [Pro Git] (http://git-scm.com/book/en/v2)
-*Ayuna Vogel*
 			
 ######GUI and visualizing tools:
 * [GitX] (http://gitx.frim.nl)
@@ -36,43 +35,43 @@
 *Mike Kavouras*
 
 
-###Queens Library free teamtreehouse.com portal and instructions (Christella)
+###Queens Library free teamtreehouse.com portal and instructions
 * [Team Treehouse Queens Library portal] (https://teamtreehouse.com/gateways/queens_library/signup)
+*Christella*
 
 * [Signup instructions] (https://groups.google.com/forum/#!topic/railsbridge-nyc-alumni/CdDimHa2VF8)
-
+*Christella*
 
 ###Objective-C
 ######lessons:
 * [Code School Lessons] (http://tryobjectivec.codeschool.com/)
 	
 ######blocks:
-		..* https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/
-			ProgrammingWithObjectiveC/WorkingwithBlocks/WorkingwithBlocks.html
-				*Krishna Pivart*
-		..* http://goshdarnblocksyntax.com
-			*Mike Kavouras*
+* [Apple Documentation] (https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithBlocks/WorkingwithBlocks.html
+*Krishna Pivart*
+
+* [Goshdarn Block Syntax] (http://goshdarnblocksyntax.com)
+*Mike Kavouras*
 			
-	**string format specifiers:**
-		..* https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/
-			Strings/Articles/formatSpecifiers.html
+######string format specifiers:
+* [Apple Documentation] (https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/Strings/Articles/formatSpecifiers.html
 
 
 ###Swift
-	**books:**
-		..* https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11
-			*Mike Kavouras*
-		https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11
-			*Mike Kavouras*
+######books:
+* [The Swift Programming Language] (https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
+*Mike Kavouras*
+		
+* [Using Swift with Cocoa and Objective-C] (https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
+*Mike Kavouras*
 		
 ###iOS (general)
-	https://www.quora.com/What-are-the-best-resources-for-learning-iOS-development
-		*Mike Kavouras*
+* [Top Resources] (https://www.quora.com/What-are-the-best-resources-for-learning-iOS-development)
+*Mike Kavouras*
 		
-###Programming (general)
-	
-	http://sijinjoseph.com/programmer-competency-matrix/
-		*Jovanny Espinal*
+###Programming (general)	
+* [Programmer Competency Matrix] (http://sijinjoseph.com/programmer-competency-matrix/)
+*Jovanny Espinal*
 		
 ###Design
 	https://www.cocoacontrols.com
