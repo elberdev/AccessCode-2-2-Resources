@@ -74,7 +74,10 @@
 ######Emoji:
 * [Adding Emoji Characters] (https://arashnorouzi.wordpress.com/2011/08/31/adding-graphics-and-emoji-characters-to-apple-push-notifications/)
 *Xiulan Shi*
-			
+
+######Syntax:
+* [Slate: Apple Security Bug]  (http://www.slate.com/articles/technology/bitwise/2014/02/apple_security_bug_a_critical_flaw_was_extraordinarily_simple.html)
+*Matthew Sabath, Mike Kavouras*			
 
 
 ###Swift
