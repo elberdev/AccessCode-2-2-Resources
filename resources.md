@@ -107,8 +107,15 @@
 * [Become a Programmer, Motherf~~~~r!] (http://programming-motherfucker.com/become.html)
 *Elber Carneiro, Jovanny Espinal, Jackie Meggesto*
 
+* [Structure and Interpretation of Computer Programs] (https://mitpress.mit.edu/sicp/full-text/book/book.html)
+*Jackie Meggesto*
+
 * [Programmer Competency Matrix] (http://sijinjoseph.com/programmer-competency-matrix/)
 *Jovanny Espinal*
+
+######C / Lisp
+* [Build Your Own Lisp] (http://www.buildyourownlisp.com)
+*Jackie Meggesto*
 
 		
 ###HTML/CSS
@@ -158,3 +165,16 @@
 ###Objective-C
 * [Objective-C Programming: the Big Nerd Ranch Guide] (https://www.bignerdranch.com/we-write/objective-c-programming/)
 *Jovanny Espinal, Eric Sanchez*
+
+* [Programming in Objective-C] (http://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607/ref=sr_1_3?ie=UTF8&qid=1433602991&sr=8-3&keywords=objective+c)
+*Mike Kavouras*
+
+
+###Object-Oriented Programming
+* [The Object-Oriented Thought Process] (http://www.amazon.com/Object-Oriented-Thought-Process-Developers-Library/dp/0321861272/ref=sr_1_1?ie=UTF8&qid=1433603297&sr=8-1&keywords=object+oriented+thought+process)
+*Mike Kavouras*
+
+###Cocoa
+* [Cocoa Design Patterns] (http://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022/ref=sr_1_1?ie=UTF8&qid=1433603085&sr=8-1&keywords=cocoa+design+patterns)
+*Mike Kavouras*
+
