@@ -53,6 +53,13 @@
 * [Gists] (https://gist.github.com)
 *Mike Kavouras*
 
+######Workflows:
+* [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+*Cameron Spickert*
+
+* [gitflow](https://github.com/nvie/gitflow)
+*Cameron Spickert*
+
 
 ###Objective-C
 ######Unit-0:
