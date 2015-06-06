@@ -24,6 +24,8 @@
 
 * [Code School Git] (https://try.github.io/levels/1/challenges/1)
 
+* [Caching your Git password] (https://help.github.com/articles/caching-your-github-password-in-git/)
+
 ######Additional lessons:
 * [Git Tower] (https://www.git-tower.com/learn/git/videos)
 *Alex Qin*
@@ -63,6 +65,9 @@
 ######Unit-0:
 * [Code School Lessons] (http://tryobjectivec.codeschool.com/)
 
+* [Code School Lessons (follow-along text) (http://courseware.codeschool.com/try_ios/objective_c_primer.pdf)
+*Christella Dolmo*
+
 * [Variables] (https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-0/2015-06-02_variables.md)
 
 * [String Format Specifiers: Apple Documentation] (https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/Strings/Articles/formatSpecifiers.html)
@@ -70,6 +75,9 @@
 ######Basics:
 * [Team Treehouse Objective-C Basics] (http://teamtreehouse.com/library/objectivec-basics) 
 *Ayuna Vogel*
+
+* [Objective-C Programming: the Big Nerd Ranch Guide (first 80 pages)] (https://www.bignerdranch.com/documents/objective-c-prereading-assignment.pdf)
+*Justine Kay*
 	
 ######Blocks:
 * [Apple Documentation] (https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithBlocks/WorkingwithBlocks.html)
@@ -82,9 +90,18 @@
 * [Adding Emoji Characters] (https://arashnorouzi.wordpress.com/2011/08/31/adding-graphics-and-emoji-characters-to-apple-push-notifications/)
 *Xiulan Shi*
 
+######Loops:
+* [Objective-C Loops] (http://www.tutorialspoint.com/objective_c/objective_c_loops.htm)
+*Mike Kavouras*
+
 ######Syntax:
 * [Slate: Apple Security Bug]  (http://www.slate.com/articles/technology/bitwise/2014/02/apple_security_bug_a_critical_flaw_was_extraordinarily_simple.html)
-*Matthew Sabath, Mike Kavouras*			
+*Matthew Sabath, Mike Kavouras*	
+
+
+###Xcode
+* [Xcode Shortcuts] (http://stackoverflow.com/questions/1402174/what-xcode-keyboard-shortcuts-do-you-use-regularly/8310524#8310524)
+*Shawn Aukstakalnis*
 
 
 ###Swift
@@ -113,7 +130,10 @@
 * [Programmer Competency Matrix] (http://sijinjoseph.com/programmer-competency-matrix/)
 *Jovanny Espinal*
 
-######C / Lisp
+######Problems / Puzzles:
+* [Project Euler] (https://projecteuler.net)
+
+######C / Lisps:
 * [Build Your Own Lisp] (http://www.buildyourownlisp.com)
 *Jackie Meggesto*
 
