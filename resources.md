@@ -65,7 +65,7 @@
 ######Unit-0:
 * [Code School Lessons] (http://tryobjectivec.codeschool.com/)
 
-* [Code School Lessons (follow-along text) (http://courseware.codeschool.com/try_ios/objective_c_primer.pdf)
+* [Code School Lessons (follow-along text)] (http://courseware.codeschool.com/try_ios/objective_c_primer.pdf)
 *Christella Dolmo*
 
 * [Variables] (https://github.com/accesscode-2-2/unit-0/blob/master/lessons/week-0/2015-06-02_variables.md)
