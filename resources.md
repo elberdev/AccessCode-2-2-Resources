@@ -1,7 +1,5 @@
 #Access Code 2.2 Aggregated Resources
 
-#Radha is a dummy
-
 
 ##FREE
 
